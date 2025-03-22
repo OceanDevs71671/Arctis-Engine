@@ -20,7 +20,7 @@ Clone the repository:
 sh
 Copy
 Edit
-git clone https://github.com/yourusername/ArctisEngine.git
+git clone https://github.com/OceanDevsInPython/ArctisEngine.git
 cd ArctisEngine
 Create a build directory:
 sh
